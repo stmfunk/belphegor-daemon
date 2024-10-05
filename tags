@@ -1,0 +1,49 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Belphegord	belphegor.py	/^class Belphegord:$/;"	c
+DailyFileObject	sb_model.py	/^class DailyFileObject(LedgerFileObject):$/;"	c
+FileObject	sb_model.py	/^class FileObject:$/;"	c
+FileSystemEventHandler	belphegor.py	/^from watchdog.events        import FileSystemEventHandler$/;"	i
+LedgerFileObject	sb_model.py	/^class LedgerFileObject(FileObject):$/;"	c
+Miscellaneous	belphegor.py	/^import os               # Miscellaneous OS interfaces.$/;"	i
+NoteTree	sb_model.py	/^class NoteTree:$/;"	c
+OS	belphegor.py	/^import os               # Miscellaneous OS interfaces.$/;"	i
+Observer	belphegor.py	/^from watchdog.observers     import Observer$/;"	i
+ObsidianHandler	belphegor.py	/^class ObsidianHandler(FileSystemEventHandler):$/;"	c
+Optional	sb_model.py	/^from typing import Optional$/;"	i
+REDIRECT_TO	belphegor.py	/^   REDIRECT_TO = "\/dev\/null"$/;"	v
+REDIRECT_TO	belphegor.py	/^   REDIRECT_TO = os.devnull$/;"	v
+System	belphegor.py	/^import sys              # System-specific parameters and functions.$/;"	i
+__init__	sb_model.py	/^    def __init__(self, heading_name):$/;"	m	class:NoteTree
+__init__	sb_model.py	/^    def __init__(self, note: typing.TextIO):$/;"	m	class:DailyFileObject
+__init__	sb_model.py	/^    def __init__(self, note: typing.TextIO):$/;"	m	class:FileObject
+__str__	sb_model.py	/^    def __str__(self):$/;"	m	class:NoteTree	file:
+add_leaf	sb_model.py	/^    def add_leaf(self, leaf: Optional['NoteTree']):$/;"	m	class:NoteTree
+and	belphegor.py	/^import sys              # System-specific parameters and functions.$/;"	i
+append_text	sb_model.py	/^    def append_text(self, new_text: str):$/;"	m	class:NoteTree
+bare_text	sb_model.py	/^    bare_text = ''$/;"	v	class:NoteTree
+createDaemon	belphegor.py	/^def createDaemon():$/;"	f
+daily_note	sb_model.py	/^    daily_note = DailyFileObject(sample)$/;"	v
+default_parser	sb_model.py	/^    def default_parser(self, heading, start_line, depth):$/;"	m	class:FileObject
+export	sb_model.py	/^    def export(self):$/;"	m	class:FileObject
+full_note	sb_model.py	/^    full_note = []$/;"	v	class:FileObject
+functions	belphegor.py	/^import sys              # System-specific parameters and functions.$/;"	i
+heading_name	sb_model.py	/^    heading_name = ''$/;"	v	class:NoteTree
+headings	sb_model.py	/^    headings = {}$/;"	v	class:FileObject
+interfaces	belphegor.py	/^import os               # Miscellaneous OS interfaces.$/;"	i
+os	belphegor.py	/^import os               # Miscellaneous OS interfaces.$/;"	i
+parameters	belphegor.py	/^import sys              # System-specific parameters and functions.$/;"	i
+parse	sb_model.py	/^    def parse(self):$/;"	m	class:FileObject
+retCode	belphegor.py	/^   retCode = createDaemon()$/;"	v
+sample	sb_model.py	/^    sample = open('sample.md','r')$/;"	v
+specific	belphegor.py	/^import sys              # System-specific parameters and functions.$/;"	i
+sys	belphegor.py	/^import sys              # System-specific parameters and functions.$/;"	i
+sys	sb_model.py	/^import sys$/;"	i
+task	belphegor.py	/^   def task(self):$/;"	m	class:Belphegord
+time	belphegor.py	/^import time$/;"	i
+transform	sb_model.py	/^    def transform(self):$/;"	m	class:FileObject
+typing	sb_model.py	/^import typing$/;"	i
