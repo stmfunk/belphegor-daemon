@@ -1,0 +1,699 @@
+---
+
+title: 2024/09/2024-09-20
+
+date: 2024-09-20 
+
+time: 07:40
+
+tags: 
+
+publish: false
+
+cssclasses: 
+
+reviewed: false
+
+---
+
+
+
+
+
+Feel all PMSy today and last night. Frustrated yesterday was such a FUCK UP.
+
+
+
+Today is a self care day. 
+
+
+
+Trucking through stuff. Completely tasks is like therapy for me.
+
+
+
+Tomorrow's trip into Neil is cancelled woohoo! More time.
+
+
+
+Want to go into ronaynes and lidl and dunnes today. And easons.
+
+
+
+## Apropos
+
+ - Morning
+
+	- [x] Breakfast
+
+	- [ ] Shower
+
+	- [x] Migrate Yesterday's Unfinished
+
+	- [x] Check finances
+
+- Evening
+
+	- [x] Emails
+
+	- [ ] Meds
+
+	- [x] Purge days browsing
+
+### Daily
+
+1. [ ] Digitise Documents
+
+2. [ ] Work on belphegor
+
+3. [ ] Make life plan.
+
+4. [x] Purge Browsing
+
+5. [x] Do a shop
+
+6. [x] Email Michelle Kenny
+
+7. [ ] Do some work in the shed
+
+8. [x] Cook dinner
+
+9. [ ] Work on door alarm
+
+
+
+### Today's Top 9
+
+- [ ] Contact autism Ireland 
+
+- [ ] Get back to Simon about flat (leaning towards no, can use that money to spend weekends in edinburgh)
+
+- [ ] Work on [[projects/belphegor_bot|belphegor]]
+
+- [ ] Work on [[projects/coathanger|coathanger]]
+
+- [ ] Make life plan
+
+### Probalies
+
+- [ ] Prune Amazon Shopping List
+
+- [ ] Fix Bills website certificate
+
+
+
+- [ ] Look up and use all my revolut metal benefits
+
+- [ ] Move dinans note to woodworking notes
+
+- [ ] [Remove phone screen](https://www.youtube.com/watch?v=Uag55fu5EYg)
+
+- [ ] Cleanup Brave
+
+
+
+- [ ] Digitise Elaine Notes
+
+- [ ] Prune Ledger graph
+
+- [ ] Export Obsidian as PDF for doctors
+
+
+
+- [ ] Make a list of characters I identify with (collage of images?)
+
+- [ ] Remap print screen
+
+
+
+- [ ] Tidy (Kondo) Bedroom
+
+- [ ] Tidy (Kondo) Storage Area
+
+
+
+- [ ] Reroute Network
+
+- [ ] Organise Internet Cabinet
+
+- [ ] Get a toy for Julie in Pet Shop
+
+- [ ] Look into WhatsApp communities
+
+
+
+- [ ] Work on belphegor
+
+- [ ] Car play systems
+
+- [ ] Look up war records
+
+- [ ] Get Family Info off Geri
+
+
+
+- [ ] Ancestry.com
+
+- [ ] Enquire about Workshop Roof (Bill reckons couple of grand)
+
+- [ ] Survey Ailish's Wifi
+
+- [ ] Sort Photos
+
+
+
+- [ ] Create Slideshow from Thailand
+
+- [ ] Play Guitar
+
+- [ ] Remove extraneous branches from SB tree
+
+- [ ] Tidy up second brain
+
+
+
+- [ ] Thinking fast and slow
+
+- [ ] Set up KDE Connect.
+
+- [ ] Research and purchase Xilinx board
+
+
+
+- [ ] Categorize and sort my important documents
+
+- [ ] Look into updating bmw software
+
+- [ ] Make mac clipper work more like windows
+
+
+
+- [ ] Screw power strips to desk
+
+- [ ] Create a note with a list of preferred vendors
+
+
+
+- [ ] Look up charting utilities for Obsidian
+
+- [ ] Diagram the information to second brain flow chart
+
+- [ ] Look up better search engines
+
+- [ ] Make decision about paying for kagi
+
+- [ ] Make decision about paying for eqmac.app
+
+
+
+- [ ] Put washer fluid in my car
+
+- [ ] Arrange Coffee with Geri next week
+
+- [ ] Set up google passkeys
+
+- [ ] Finish setting up new phone launcher
+
+
+
+- [ ] Call into air impact
+
+- [ ] Look up smarter notification systems
+
+- [ ] Watch back through old unwatched Apple Keynotes
+
+- [ ] Price dremels
+
+
+
+- [ ] Replace Access Point system with Mesh System
+
+- [ ] Ask Graham is he going to Ploughing
+
+- [ ] Look up fossil smart watches
+
+
+
+- [ ] Add start of day and end of day items to list
+
+- [ ] Book appointment with Behan to review bloods
+
+- [ ] Buy a Jewellers Mandrel
+
+- [ ] Rig my Hifi Up as my desktop Sound system
+
+	- [ ] Look into getting mounting brackets
+
+- [ ] Add start of day and end mood check in to daily
+
+- [ ] Review Installed Plugins
+
+- [ ] Cleanup Downloads folder and Filesystem
+
+- [ ] Reconfigure my notifications
+
+- [ ] Integrate copilot 
+
+- [ ] Strip down the Pinebook
+
+- [ ] Look up how to publish a white paper
+
+- [ ] Explore AliExpress
+
+- [ ] Ring autism ireland
+
+- [ ] Adjust Dark mode extension
+
+- [ ] Move vimscript to lua
+
+- [ ] Use powertoys to make mac and windows keyboards more similar
+
+- [ ] Wire up central monitor through  KVM
+
+
+
+### Non-Priority
+
+- [ ] Prune Amazon Shopping List
+
+- [ ] Fix Bills website certificate
+
+
+
+- [ ] Look up and use all my revolut metal benefits
+
+- [ ] Move dinans note to woodworking notes
+
+- [ ] [Remove phone screen](https://www.youtube.com/watch?v=Uag55fu5EYg)
+
+- [ ] Cleanup Brave
+
+
+
+- [ ] Digitise Elaine Notes
+
+- [ ] Prune Ledger graph
+
+- [ ] Export Obsidian as PDF for doctors
+
+
+
+- [ ] Make a list of characters I identify with (collage of images?)
+
+- [ ] Remap print screen
+
+
+
+- [ ] Tidy (Kondo) Bedroom
+
+- [ ] Tidy (Kondo) Storage Area
+
+
+
+- [ ] Reroute Network
+
+- [ ] Organise Internet Cabinet
+
+- [ ] Get a toy for Julie in Pet Shop
+
+- [ ] Look into WhatsApp communities
+
+
+
+- [ ] Work on belphegor
+
+- [ ] Car play systems
+
+- [ ] Look up war records
+
+- [ ] Get Family Info off Geri
+
+
+
+- [ ] Ancestry.com
+
+- [ ] Enquire about Workshop Roof (Bill reckons couple of grand)
+
+- [ ] Survey Ailish's Wifi
+
+- [ ] Sort Photos
+
+
+
+- [ ] Create Slideshow from Thailand
+
+- [ ] Play Guitar
+
+- [ ] Remove extraneous branches from SB tree
+
+- [ ] Tidy up second brain
+
+
+
+- [ ] Thinking fast and slow
+
+- [ ] Set up KDE Connect.
+
+- [ ] Research and purchase Xilinx board
+
+
+
+- [ ] Categorize and sort my important documents
+
+- [ ] Look into updating bmw software
+
+- [ ] Make mac clipper work more like windows
+
+
+
+- [ ] Screw power strips to desk
+
+- [ ] Create a note with a list of preferred vendors
+
+
+
+- [ ] Look up charting utilities for Obsidian
+
+- [ ] Diagram the information to second brain flow chart
+
+- [ ] Look up better search engines
+
+- [ ] Make decision about paying for kagi
+
+- [ ] Make decision about paying for eqmac.app
+
+
+
+- [ ] Put washer fluid in my car
+
+- [ ] Arrange Coffee with Geri next week
+
+- [ ] Set up google passkeys
+
+- [ ] Finish setting up new phone launcher
+
+
+
+- [ ] Call into air impact
+
+- [ ] Look up smarter notification systems
+
+- [ ] Watch back through old unwatched Apple Keynotes
+
+- [ ] Price dremels
+
+
+
+- [ ] Replace Access Point system with Mesh System
+
+- [ ] Ask Graham is he going to Ploughing
+
+- [ ] Look up fossil smart watches
+
+
+
+- [ ] Add start of day and end of day items to list
+
+- [ ] Book appointment with Behan to review bloods
+
+- [ ] Buy a Jewellers Mandrel
+
+- [ ] Rig my Hifi Up as my desktop Sound system
+
+	- [ ] Look into getting mounting brackets
+
+- [ ] Add start of day and end mood check in to daily
+
+- [ ] Review Installed Plugins
+
+- [ ] Cleanup Downloads folder and Filesystem
+
+- [ ] Reconfigure my notifications
+
+- [ ] Integrate copilot 
+
+- [ ] Strip down the Pinebook
+
+- [ ] Look up how to publish a white paper
+
+- [ ] Explore AliExpress
+
+- [ ] Ring autism ireland
+
+- [ ] Adjust Dark mode extension
+
+- [ ] Move vimscript to lua
+
+- [ ] Use powertoys to make mac and windows keyboards more similar
+
+- [ ] Wire up central monitor through  KVM
+
+
+
+### Unfinished Yesterday
+
+## Tasks
+
+
+
+## Musings
+
+
+
+Have belphegor build relationship database, use this information to categorise data by type.
+
+## Ideas
+
+
+
+- [x] Juice
+
+- [x] Ribena
+
+- [x] Toilet Paper
+
+- [x] Sausages
+
+- [ ] Magnets
+
+- [x] White board markers
+
+- [x] Acetone 
+
+- [ ] Washer Fluid
+
+
+
+![[PXL_20240920_142211470.jpg]]
+
+All except chilli and stock
+
+- [x] String line
+
+
+
+- [x] Leatherman Tread
+
+- [x] antibac soap
+
+
+
+### Shopping List
+
+### Spent Today
+
+## Money
+
+
+
+https://www.madrau.com/srx_download/download.html #sysadmin
+
+
+
+https://www.chunkbase.com/apps/ #gaming #minecraft
+
+
+
+https://www.amuletmc.com/faq #gaming #minecraft
+
+
+
+https://micropixels.software/apps/neptunes #sysadmin
+
+\
+
+https://www.aliexpress.com/item/1005004578869992.html
+
+
+
+https://www.google.com/search?client=opera-gx&q=how+to+straighten+a+ring&sourceid=opera&ie=UTF-8&oe=UTF-8#fpstate=ive&vld=cid:c80dae04,vid:LmCw7DN8n54,st:0
+
+
+
+https://www.etsy.com/ie/listing/1371016452/handmade-damascus-steel-ring-7mm-perfect?gpla=1&gao=1&&utm_source=google&utm_medium=cpc&utm_campaign=shopping_ie_en_ie_-jewelry-rings&utm_custom1=_k_Cj0KCQjw9Km3BhDjARIsAGUb4nwyC7dqAt_R-KN1MFcCDKL7FZle6y_A0ZzaNiZ1G47B6MZZFT9GoMYaAlHVEALw_wcB_k_&utm_content=go_13703308028_123455834799_530490401242_aud-2079782229734:pla-306013798290_c__1371016452enie_432418375&utm_custom2=13703308028&gad_source=1&gclid=Cj0KCQjw9Km3BhDjARIsAGUb4nwyC7dqAt_R-KN1MFcCDKL7FZle6y_A0ZzaNiZ1G47B6MZZFT9GoMYaAlHVEALw_wcB
+
+
+
+https://www.trendhim.ie/stainless-steel-secret-compartment-signet-ring-p.html?att_type=generic&att_searchtype=shopping&campaign_id=20731971290&ad_group_id=153763249086&criteria_id=pla-296910975803&ad_id=679009263490&network=g&placement=&placement_category=&gad_source=1&gclid=Cj0KCQjw9Km3BhDjARIsAGUb4nwTRvuw1FPjhh0_ARrNxRPZlr8OYY_pAgavNZANrmWBWDWj947qDzcaAmZSEALw_wcB
+
+
+
+https://www.trendhim.ie/fortis-7-mm-double-grooved-damascus-steel-and-rose-gold-tone-titanium-ring-p.html
+
+
+
+https://www.viviennewestwood.com/en-ie/men/jewellery/rings/armour-ring-ruthenium/64030003-01S001-IM-RUTHENIUM.html
+
+
+
+https://www.viviennewestwood.com/en-ie/home/
+
+
+
+https://www.ebay.co.uk/itm/196569454611?_trkparms=amclksrc%3DITM%26aid%3D1110006%26algo%3DHOMESPLICE.SIM%26ao%3D1%26asc%3D273568%2C272189%2C271354%26meid%3D03fa05c338b64ee3a665e981618f41b0%26pid%3D101875%26rk%3D4%26rkt%3D4%26sd%3D286056443599%26itm%3D196569454611%26pmt%3D1%26noa%3D0%26pg%3D2332490%26algv%3DSimVIDwebV3WithCPCExpansion&_trksid=p2332490.c101875.m1851&itmprp=cksum%3A19656945461103fa05c338b64ee3a665e981618f41b0%7Cenc%3AAQAJAAABAKAOBbj8c9I6eO4vPyI9FfMl8NhNqsULUU1TfDUZ7khlTB%252FjiGTRRqhEARVgEMEfJHOQeEXBcWefCaCJHtBb5caEDzvEKPy1gvwDMsf%252BuiVAiSi6XmQxIjDf2J89Nnx7Th5yff7jEvOe2yU5QBRGlmB84suRoysxjzy1jX7ATId7TcCEtI11pGdfg9BiLxg0RU2iuuiGMTsnuMDLhd6WdxIWkNua5Ja0F%252BMVbN%252BbTeUl9f8f%252F8OjOrBKaQ0etEEUHq56BGdAZvrYoeB%252B8CtynCOOpqLI%252B14qcuF2x6HAKlHfR8EcrRmCGeiZelZICVcCqUL6iUV%252B7O245ZTvImv535w%253D%7Campid%3APL_CLK%7Cclp%3A2332490&itmmeta=01J8321ATB9SWGGWDPGDF7KRDE
+
+
+
+https://www.thecarpentrystore.com/c/proxxon-tools-/306/perpage_24
+
+
+
+https://www.proxxon.com/en/micromot/28472.php
+
+
+
+
+
+https://github.com/features/copilot/plans #coding
+
+
+
+https://github.com/Exafunction/codeium.vim #coding
+
+
+
+https://www.reddit.com/r/vscode/comments/1danet1/good_alternative_for_github_copilot/ #coding
+
+
+
+https://www.autohotkey.com #keyboard
+
+
+
+https://www.duckychannel.com.tw/en/News/KnowledgeCenter/QMK-VIA-Settings #keyboard
+
+
+
+Women of Valor #movie
+
+
+
+https://en.wikipedia.org/wiki/Animal_Man #comics 
+
+
+
+https://ratrig.com #tools
+
+
+
+https://bambulab.com/en-eu/a1 #tools 
+
+
+
+https://www.edx.org/learn/autonomous-robotics #robotics #learning
+
+
+
+https://www.edx.org/learn/circuits/massachusetts-institute-of-technology-circuits-and-electronics-1-basic-circuit-analysis?index=product&objectID=course-8f9c73ef-73f5-45dd-aca1-7dad3696f743&webview=false&campaign=Circuits+and+Electronics+1%3A+Basic+Circuit+Analysis&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Felectronics #robotics #learning #electronics
+
+
+
+https://www.edx.org/learn/robotics #learning #engineering #design
+
+
+
+https://cyberbotics.com #robotics #simulation #design
+
+
+
+https://www.tinkercad.com #robotics #simulation  #design
+
+
+
+https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription #design #engineering
+
+
+
+https://www.furtherfabrication.com/project/2019/4/20/the-laser-cutter-build-series #tools #engineering 
+
+
+
+https://openbuilds.com/builds/openbuilds-table-top-50w-co2-laser-cutter-engraver.8688/ #tools #engineering  
+
+
+
+https://ooznest.co.uk/product/20x40mm-t-v-slot-aluminium-extrusion-profile-silver-cut-to-size/ #parts #engineering #workshop
+
+
+
+https://unity.com/learn #gamedev #learning #design
+
+
+
+https://autside.substack.com/p/why-is-gaslighting-so-harmful-to #health #tldr #learning
+
+
+
+https://pine64.org/devices/  #shopping #engineering #embedded
+
+
+
+https://store.google.com/ie/product/pixel_watch_3?hl=en-GB #shopping
+
+
+
+https://www.dlink.com/uk/en/products/dgs-1210-series-gigabit-smart-switches #computer-networking
+
+
+
+https://www.amuletmc.com/faq #gaming
+
+
+
+https://pcsx2.net #gaming
+
+
+
+https://en.wikipedia.org/wiki/Conker%27s_Bad_Fur_Day #gaming
+
+
+
+https://www.udoo.org/udooboltgear/ #computers #shopping #sbc
+
+
+
+Billionaire Boy's Club  #movie
+
+
+
+Driclor
+## Link Dump
+
+# 2024/09/2024-09-20
+
+ root
+---title: 2024/09/2024-09-20date: 2024-09-20 time: 07:40tags: publish: falsecssclasses: reviewed: false---# 2024/09/2024-09-20
+## Apropos
+Feel all PMSy today and last night. Frustrated yesterday was such a FUCK UP.Today is a self care day. Trucking through stuff. Completely tasks is like therapy for me.Tomorrow's trip into Neil is cancelled woohoo! More time.Want to go into ronaynes and lidl and dunnes today. And easons.## Tasks
+### Daily
+ - Morning	- [x] Breakfast	- [ ] Shower	- [x] Migrate Yesterday's Unfinished	- [x] Check finances- Evening	- [x] Emails	- [ ] Meds	- [x] Purge days browsing### Today's Top 9
+1. [ ] Digitise Documents2. [ ] Work on belphegor3. [ ] Make life plan.4. [x] Purge Browsing5. [x] Do a shop6. [x] Email Michelle Kenny7. [ ] Do some work in the shed8. [x] Cook dinner9. [ ] Work on door alarm### Probalies
+- [ ] Contact autism Ireland - [ ] Get back to Simon about flat (leaning towards no, can use that money to spend weekends in edinburgh)- [ ] Work on [[projects/belphegor_bot|belphegor]]- [ ] Work on [[projects/coathanger|coathanger]]- [ ] Make life plan### Non-Priority
+- [ ] Prune Amazon Shopping List- [ ] Fix Bills website certificate- [ ] Look up and use all my revolut metal benefits- [ ] Move dinans note to woodworking notes- [ ] [Remove phone screen](https://www.youtube.com/watch?v=Uag55fu5EYg)- [ ] Cleanup Brave- [ ] Digitise Elaine Notes- [ ] Prune Ledger graph- [ ] Export Obsidian as PDF for doctors- [ ] Make a list of characters I identify with (collage of images?)- [ ] Remap print screen- [ ] Tidy (Kondo) Bedroom- [ ] Tidy (Kondo) Storage Area- [ ] Reroute Network- [ ] Organise Internet Cabinet- [ ] Get a toy for Julie in Pet Shop- [ ] Look into WhatsApp communities- [ ] Work on belphegor- [ ] Car play systems- [ ] Look up war records- [ ] Get Family Info off Geri- [ ] Ancestry.com- [ ] Enquire about Workshop Roof (Bill reckons couple of grand)- [ ] Survey Ailish's Wifi- [ ] Sort Photos- [ ] Create Slideshow from Thailand- [ ] Play Guitar- [ ] Remove extraneous branches from SB tree- [ ] Tidy up second brain- [ ] Thinking fast and slow- [ ] Set up KDE Connect.- [ ] Research and purchase Xilinx board- [ ] Categorize and sort my important documents- [ ] Look into updating bmw software- [ ] Make mac clipper work more like windows- [ ] Screw power strips to desk- [ ] Create a note with a list of preferred vendors- [ ] Look up charting utilities for Obsidian- [ ] Diagram the information to second brain flow chart- [ ] Look up better search engines- [ ] Make decision about paying for kagi- [ ] Make decision about paying for eqmac.app- [ ] Put washer fluid in my car- [ ] Arrange Coffee with Geri next week- [ ] Set up google passkeys- [ ] Finish setting up new phone launcher- [ ] Call into air impact- [ ] Look up smarter notification systems- [ ] Watch back through old unwatched Apple Keynotes- [ ] Price dremels- [ ] Replace Access Point system with Mesh System- [ ] Ask Graham is he going to Ploughing- [ ] Look up fossil smart watches- [ ] Add start of day and end of day items to list- [ ] Book appointment with Behan to review bloods- [ ] Buy a Jewellers Mandrel- [ ] Rig my Hifi Up as my desktop Sound system	- [ ] Look into getting mounting brackets- [ ] Add start of day and end mood check in to daily- [ ] Review Installed Plugins- [ ] Cleanup Downloads folder and Filesystem- [ ] Reconfigure my notifications- [ ] Integrate copilot - [ ] Strip down the Pinebook- [ ] Look up how to publish a white paper- [ ] Explore AliExpress- [ ] Ring autism ireland- [ ] Adjust Dark mode extension- [ ] Move vimscript to lua- [ ] Use powertoys to make mac and windows keyboards more similar- [ ] Wire up central monitor through  KVM### Unfinished Yesterday
+- [ ] Prune Amazon Shopping List- [ ] Fix Bills website certificate- [ ] Look up and use all my revolut metal benefits- [ ] Move dinans note to woodworking notes- [ ] [Remove phone screen](https://www.youtube.com/watch?v=Uag55fu5EYg)- [ ] Cleanup Brave- [ ] Digitise Elaine Notes- [ ] Prune Ledger graph- [ ] Export Obsidian as PDF for doctors- [ ] Make a list of characters I identify with (collage of images?)- [ ] Remap print screen- [ ] Tidy (Kondo) Bedroom- [ ] Tidy (Kondo) Storage Area- [ ] Reroute Network- [ ] Organise Internet Cabinet- [ ] Get a toy for Julie in Pet Shop- [ ] Look into WhatsApp communities- [ ] Work on belphegor- [ ] Car play systems- [ ] Look up war records- [ ] Get Family Info off Geri- [ ] Ancestry.com- [ ] Enquire about Workshop Roof (Bill reckons couple of grand)- [ ] Survey Ailish's Wifi- [ ] Sort Photos- [ ] Create Slideshow from Thailand- [ ] Play Guitar- [ ] Remove extraneous branches from SB tree- [ ] Tidy up second brain- [ ] Thinking fast and slow- [ ] Set up KDE Connect.- [ ] Research and purchase Xilinx board- [ ] Categorize and sort my important documents- [ ] Look into updating bmw software- [ ] Make mac clipper work more like windows- [ ] Screw power strips to desk- [ ] Create a note with a list of preferred vendors- [ ] Look up charting utilities for Obsidian- [ ] Diagram the information to second brain flow chart- [ ] Look up better search engines- [ ] Make decision about paying for kagi- [ ] Make decision about paying for eqmac.app- [ ] Put washer fluid in my car- [ ] Arrange Coffee with Geri next week- [ ] Set up google passkeys- [ ] Finish setting up new phone launcher- [ ] Call into air impact- [ ] Look up smarter notification systems- [ ] Watch back through old unwatched Apple Keynotes- [ ] Price dremels- [ ] Replace Access Point system with Mesh System- [ ] Ask Graham is he going to Ploughing- [ ] Look up fossil smart watches- [ ] Add start of day and end of day items to list- [ ] Book appointment with Behan to review bloods- [ ] Buy a Jewellers Mandrel- [ ] Rig my Hifi Up as my desktop Sound system	- [ ] Look into getting mounting brackets- [ ] Add start of day and end mood check in to daily- [ ] Review Installed Plugins- [ ] Cleanup Downloads folder and Filesystem- [ ] Reconfigure my notifications- [ ] Integrate copilot - [ ] Strip down the Pinebook- [ ] Look up how to publish a white paper- [ ] Explore AliExpress- [ ] Ring autism ireland- [ ] Adjust Dark mode extension- [ ] Move vimscript to lua- [ ] Use powertoys to make mac and windows keyboards more similar- [ ] Wire up central monitor through  KVM## Musings
+## Ideas
+Have belphegor build relationship database, use this information to categorise data by type.## Money
+### Shopping List
+- [x] Juice- [x] Ribena- [x] Toilet Paper- [x] Sausages- [ ] Magnets- [x] White board markers- [x] Acetone - [ ] Washer Fluid![[PXL_20240920_142211470.jpg]]All except chilli and stock- [x] String line- [x] Leatherman Tread- [x] antibac soap### Spent Today
+## Link Dump
+https://www.madrau.com/srx_download/download.html #sysadminhttps://www.chunkbase.com/apps/ #gaming #minecrafthttps://www.amuletmc.com/faq #gaming #minecrafthttps://micropixels.software/apps/neptunes #sysadmin\https://www.aliexpress.com/item/1005004578869992.htmlhttps://www.google.com/search?client=opera-gx&q=how+to+straighten+a+ring&sourceid=opera&ie=UTF-8&oe=UTF-8#fpstate=ive&vld=cid:c80dae04,vid:LmCw7DN8n54,st:0https://www.etsy.com/ie/listing/1371016452/handmade-damascus-steel-ring-7mm-perfect?gpla=1&gao=1&&utm_source=google&utm_medium=cpc&utm_campaign=shopping_ie_en_ie_-jewelry-rings&utm_custom1=_k_Cj0KCQjw9Km3BhDjARIsAGUb4nwyC7dqAt_R-KN1MFcCDKL7FZle6y_A0ZzaNiZ1G47B6MZZFT9GoMYaAlHVEALw_wcB_k_&utm_content=go_13703308028_123455834799_530490401242_aud-2079782229734:pla-306013798290_c__1371016452enie_432418375&utm_custom2=13703308028&gad_source=1&gclid=Cj0KCQjw9Km3BhDjARIsAGUb4nwyC7dqAt_R-KN1MFcCDKL7FZle6y_A0ZzaNiZ1G47B6MZZFT9GoMYaAlHVEALw_wcBhttps://www.trendhim.ie/stainless-steel-secret-compartment-signet-ring-p.html?att_type=generic&att_searchtype=shopping&campaign_id=20731971290&ad_group_id=153763249086&criteria_id=pla-296910975803&ad_id=679009263490&network=g&placement=&placement_category=&gad_source=1&gclid=Cj0KCQjw9Km3BhDjARIsAGUb4nwTRvuw1FPjhh0_ARrNxRPZlr8OYY_pAgavNZANrmWBWDWj947qDzcaAmZSEALw_wcBhttps://www.trendhim.ie/fortis-7-mm-double-grooved-damascus-steel-and-rose-gold-tone-titanium-ring-p.htmlhttps://www.viviennewestwood.com/en-ie/men/jewellery/rings/armour-ring-ruthenium/64030003-01S001-IM-RUTHENIUM.htmlhttps://www.viviennewestwood.com/en-ie/home/https://www.ebay.co.uk/itm/196569454611?_trkparms=amclksrc%3DITM%26aid%3D1110006%26algo%3DHOMESPLICE.SIM%26ao%3D1%26asc%3D273568%2C272189%2C271354%26meid%3D03fa05c338b64ee3a665e981618f41b0%26pid%3D101875%26rk%3D4%26rkt%3D4%26sd%3D286056443599%26itm%3D196569454611%26pmt%3D1%26noa%3D0%26pg%3D2332490%26algv%3DSimVIDwebV3WithCPCExpansion&_trksid=p2332490.c101875.m1851&itmprp=cksum%3A19656945461103fa05c338b64ee3a665e981618f41b0%7Cenc%3AAQAJAAABAKAOBbj8c9I6eO4vPyI9FfMl8NhNqsULUU1TfDUZ7khlTB%252FjiGTRRqhEARVgEMEfJHOQeEXBcWefCaCJHtBb5caEDzvEKPy1gvwDMsf%252BuiVAiSi6XmQxIjDf2J89Nnx7Th5yff7jEvOe2yU5QBRGlmB84suRoysxjzy1jX7ATId7TcCEtI11pGdfg9BiLxg0RU2iuuiGMTsnuMDLhd6WdxIWkNua5Ja0F%252BMVbN%252BbTeUl9f8f%252F8OjOrBKaQ0etEEUHq56BGdAZvrYoeB%252B8CtynCOOpqLI%252B14qcuF2x6HAKlHfR8EcrRmCGeiZelZICVcCqUL6iUV%252B7O245ZTvImv535w%253D%7Campid%3APL_CLK%7Cclp%3A2332490&itmmeta=01J8321ATB9SWGGWDPGDF7KRDEhttps://www.thecarpentrystore.com/c/proxxon-tools-/306/perpage_24https://www.proxxon.com/en/micromot/28472.phphttps://github.com/features/copilot/plans #codinghttps://github.com/Exafunction/codeium.vim #codinghttps://www.reddit.com/r/vscode/comments/1danet1/good_alternative_for_github_copilot/ #codinghttps://www.autohotkey.com #keyboardhttps://www.duckychannel.com.tw/en/News/KnowledgeCenter/QMK-VIA-Settings #keyboardWomen of Valor #moviehttps://en.wikipedia.org/wiki/Animal_Man #comics https://ratrig.com #toolshttps://bambulab.com/en-eu/a1 #tools https://www.edx.org/learn/autonomous-robotics #robotics #learninghttps://www.edx.org/learn/circuits/massachusetts-institute-of-technology-circuits-and-electronics-1-basic-circuit-analysis?index=product&objectID=course-8f9c73ef-73f5-45dd-aca1-7dad3696f743&webview=false&campaign=Circuits+and+Electronics+1%3A+Basic+Circuit+Analysis&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Felectronics #robotics #learning #electronicshttps://www.edx.org/learn/robotics #learning #engineering #designhttps://cyberbotics.com #robotics #simulation #designhttps://www.tinkercad.com #robotics #simulation  #designhttps://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription #design #engineeringhttps://www.furtherfabrication.com/project/2019/4/20/the-laser-cutter-build-series #tools #engineering https://openbuilds.com/builds/openbuilds-table-top-50w-co2-laser-cutter-engraver.8688/ #tools #engineering  https://ooznest.co.uk/product/20x40mm-t-v-slot-aluminium-extrusion-profile-silver-cut-to-size/ #parts #engineering #workshophttps://unity.com/learn #gamedev #learning #designhttps://autside.substack.com/p/why-is-gaslighting-so-harmful-to #health #tldr #learninghttps://pine64.org/devices/  #shopping #engineering #embeddedhttps://store.google.com/ie/product/pixel_watch_3?hl=en-GB #shoppinghttps://www.dlink.com/uk/en/products/dgs-1210-series-gigabit-smart-switches #computer-networkinghttps://www.amuletmc.com/faq #gaminghttps://pcsx2.net #gaminghttps://en.wikipedia.org/wiki/Conker%27s_Bad_Fur_Day #gaminghttps://www.udoo.org/udooboltgear/ #computers #shopping #sbcBillionaire Boy's Club  #movieDriclor

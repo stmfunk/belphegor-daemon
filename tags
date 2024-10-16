@@ -10,6 +10,7 @@ FileObject	sb_model.py	/^class FileObject:$/;"	c
 FileSystemEventHandler	belphegor.py	/^from watchdog.events        import FileSystemEventHandler$/;"	i
 LedgerFileObject	sb_model.py	/^class LedgerFileObject(FileObject):$/;"	c
 Miscellaneous	belphegor.py	/^import os               # Miscellaneous OS interfaces.$/;"	i
+NoteTask	sb_model.py	/^class NoteTask:$/;"	c
 NoteTree	sb_model.py	/^class NoteTree:$/;"	c
 OS	belphegor.py	/^import os               # Miscellaneous OS interfaces.$/;"	i
 Observer	belphegor.py	/^from watchdog.observers     import Observer$/;"	i
@@ -18,28 +19,39 @@ Optional	sb_model.py	/^from typing import Optional$/;"	i
 REDIRECT_TO	belphegor.py	/^   REDIRECT_TO = "\/dev\/null"$/;"	v
 REDIRECT_TO	belphegor.py	/^   REDIRECT_TO = os.devnull$/;"	v
 System	belphegor.py	/^import sys              # System-specific parameters and functions.$/;"	i
-__init__	sb_model.py	/^    def __init__(self, heading_name):$/;"	m	class:NoteTree
+__init__	sb_model.py	/^    def __init__(self, heading_name, depth=0):$/;"	m	class:NoteTree
 __init__	sb_model.py	/^    def __init__(self, note: typing.TextIO):$/;"	m	class:DailyFileObject
 __init__	sb_model.py	/^    def __init__(self, note: typing.TextIO):$/;"	m	class:FileObject
+__init__	sb_model.py	/^    def __init__(self, text, status=False):$/;"	m	class:NoteTask
 __str__	sb_model.py	/^    def __str__(self):$/;"	m	class:NoteTree	file:
-add_leaf	sb_model.py	/^    def add_leaf(self, leaf: Optional['NoteTree']):$/;"	m	class:NoteTree
+add_leaf	sb_model.py	/^    def add_leaf(self, leaf):$/;"	m	class:NoteTree
+add_task	sb_model.py	/^    def add_task(self, text):$/;"	m	class:NoteTree
 and	belphegor.py	/^import sys              # System-specific parameters and functions.$/;"	i
 append_text	sb_model.py	/^    def append_text(self, new_text: str):$/;"	m	class:NoteTree
-bare_text	sb_model.py	/^    bare_text = ''$/;"	v	class:NoteTree
+bulleted_task_incomplete_pattern	sb_model.py	/^bulleted_task_incomplete_pattern = r'\\s*- \\[ \\].*'$/;"	v
+bulleted_task_pattern	sb_model.py	/^bulleted_task_pattern = r'\\s*- \\[.\\].*'$/;"	v
 createDaemon	belphegor.py	/^def createDaemon():$/;"	f
 daily_note	sb_model.py	/^    daily_note = DailyFileObject(sample)$/;"	v
+debug	sb_model.py	/^debug = False$/;"	v
 default_parser	sb_model.py	/^    def default_parser(self, heading, start_line, depth):$/;"	m	class:FileObject
+empty_line_pattern	sb_model.py	/^empty_line_pattern = r'\\s*$'$/;"	v
 export	sb_model.py	/^    def export(self):$/;"	m	class:FileObject
+export_md_file	sb_model.py	/^    def export_md_file(self):$/;"	m	class:NoteTree
 full_note	sb_model.py	/^    full_note = []$/;"	v	class:FileObject
 functions	belphegor.py	/^import sys              # System-specific parameters and functions.$/;"	i
-heading_name	sb_model.py	/^    heading_name = ''$/;"	v	class:NoteTree
 headings	sb_model.py	/^    headings = {}$/;"	v	class:FileObject
+indentation_level	sb_model.py	/^indentation_level = '   >'$/;"	v
 interfaces	belphegor.py	/^import os               # Miscellaneous OS interfaces.$/;"	i
+link_pattern	sb_model.py	/^link_pattern = r'https?:\/\/'$/;"	v
+numbered_task_incomplete_pattern	sb_model.py	/^numbered_task_incomplete_pattern = r'\\s*[0-9]+\\. \\[ \\].*'$/;"	v
+numbered_task_pattern	sb_model.py	/^numbered_task_pattern = r'\\s*[0-9]+\\. \\[.\\].*'$/;"	v
 os	belphegor.py	/^import os               # Miscellaneous OS interfaces.$/;"	i
 parameters	belphegor.py	/^import sys              # System-specific parameters and functions.$/;"	i
 parse	sb_model.py	/^    def parse(self):$/;"	m	class:FileObject
+print_me	sb_model.py	/^    def print_me(self):$/;"	m	class:NoteTree
+re	sb_model.py	/^import re$/;"	i
 retCode	belphegor.py	/^   retCode = createDaemon()$/;"	v
-sample	sb_model.py	/^    sample = open('sample.md','r')$/;"	v
+sample	sb_model.py	/^    sample = open('2024-09-20.md','r')$/;"	v
 specific	belphegor.py	/^import sys              # System-specific parameters and functions.$/;"	i
 sys	belphegor.py	/^import sys              # System-specific parameters and functions.$/;"	i
 sys	sb_model.py	/^import sys$/;"	i
